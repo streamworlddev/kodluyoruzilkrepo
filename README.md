@@ -1,6 +1,8 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası,LICENSE dosyası ve bir adetde index.html dosyası barınıyor. (BAŞLANGIÇ SEVİYE .NET CORE PATİKASI)
 
+PATİKA PROFİLİM : [https://app.patika.dev/streamworld](https://app.patika.dev/streamworld)
+
 ![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ## Installation
